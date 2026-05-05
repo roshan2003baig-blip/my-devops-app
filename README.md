@@ -1,2 +1,2 @@
 # my-devops-app
-'Version 1.0 --- Hello From Roshan'
+'Version 1.1 --- Bug Fixed'
